@@ -2,3 +2,4 @@
 testing my setup
 Hi I am writing something from terminal
 A second message
+\n One last time
